@@ -12,6 +12,6 @@ public class t2{
         for(a = 1; a <= n; a++){
             hasil = hasil + a;
         }
-        System.out.println("Penjumlahan dari 1 sampai " + n + " : "+ hasil);
+        System.out.println("Penjumlahan dari 1 sampai " + n + " = "+ hasil);
 	}
 }
